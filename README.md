@@ -35,9 +35,9 @@
 
 # 感谢
 
-- [gpt-crawler](https://github.com/BuilderIO/gpt-crawler) Crawl a site to generate knowledge files to create your own custom GPT from a URL (github.com)
+- [gpt-crawler](https://github.com/BuilderIO/gpt-crawler) Crawl a site to generate knowledge files to create your own custom GPT from a URL.
 - [NotionNext](https://github.com/tangly1024/NotionNext) 一个使用 NextJS + Notion API 实现的，部署在 Vercel 上的静态博客系统。为Notion和所有创作者设计。
-
+- [github-reader](https://github.com/sdaaron/github-reader) 启发了我。
 # License
 
 MIT License
