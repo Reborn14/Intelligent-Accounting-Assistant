@@ -6,8 +6,8 @@
 
 ![Python](https://img.shields.io/badge/python-blue?logo=python&logoColor=white)
 ![License](https://img.shields.io/github/license/Reborn14/Intelligent-Accounting-Assistant?style=flat&color=green)
-![GitHub forks](https://img.shields.io/github/forks/Reborn14/jizhangshortcut?style=flat&color=c56cf0)
-![GitHub stars](https://img.shields.io/github/stars/Reborn14/jizhangshortcut?style=flat&color=fff200)
+![GitHub forks](https://img.shields.io/github/forks/Reborn14/Intelligent-Accounting-Assistant?style=flat&color=c56cf0)
+![GitHub stars](https://img.shields.io/github/stars/Reborn14/Intelligent-Accounting-Assistant?style=flat&color=fff200)
 <hr/>
 
 # 它能做些什么？
