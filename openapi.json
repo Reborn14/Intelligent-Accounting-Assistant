@@ -102,6 +102,7 @@
             "post": {
                 "summary": "Gpt Update Record",
                 "operationId": "gpt_update_record_post",
+                "x-openai-isConsequential": "false",
                 "parameters": [
                     {
                         "name": "record_id",
@@ -152,6 +153,7 @@
             "post": {
                 "summary": "Gpt Delete Record",
                 "operationId": "gpt_delete_record_post",
+                "x-openai-isConsequential": "false",
                 "security": [
                     {
                         "APIKeyHeader": []
@@ -195,6 +197,7 @@
                 "description": "Create a new record to Feishu.",
                 "summary": "Create Record",
                 "operationId": "createRecord_post",
+                "x-openai-isConsequential": "false",
                 "parameters": [
                     {
                         "name": "fields",
